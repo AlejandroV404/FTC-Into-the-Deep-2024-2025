@@ -39,6 +39,7 @@ This repository contains the complete control system I developed for our FTC rob
 2. Import into Android Studio or upload via OnBot Java
 3. Configure hardware map to match your team's robot
 4. Select your OpMode on the Driver Station and test
+   [for RoadRunner Usage you will first need to tune your robot for roadrunner. Here's a guide: learnroadrunner.com]
 
 ## 🏆 About the Project
 This code was used to:
