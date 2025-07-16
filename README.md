@@ -58,6 +58,7 @@ It was a challenging but incredibly rewarding experience. I’m proud of what I 
 > _FTC SDK-specific notes and formatting guidelines (from BlocksOpModeCompanion and ExportToBlocks usage):_
 
 - Classes must be in the `org.firstinspires.ftc.teamcode` package.
+- A separate hardware class was made from the Op modes in order to avoid redundant code. the Op modes just call the hardware from the hardware class
 - For easy access to `opMode`, `hardwareMap`, `telemetry`, `gamepad1`, and `gamepad2`, classes can extend `BlocksOpModeCompanion`.
 - Public static methods can be annotated with `@ExportToBlocks` and must use supported parameter types (e.g., `OpMode`, `HardwareMap`, `boolean`, `int`, `double`, `String`, etc.).
 - Specific UI improvements were made:
