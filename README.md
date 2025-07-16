@@ -17,7 +17,7 @@ This repository contains the complete control system I developed for our FTC rob
 - Java (FTC SDK)
 - OnBot Java & Android Studio
 - REV Expansion Hub & IMU
-- goBILDA Odometry Pods
+- goBILDA Encoders
 - LinearOpMode & OpMode implementations
 
 ## 📁 Code Structure
