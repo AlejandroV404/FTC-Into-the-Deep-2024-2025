@@ -1,8 +1,10 @@
 # FTC Robotics Control System – 2024–2025
+https://theorangealliance.org/teams/12397
 
 This repository contains the complete control system I developed for our FTC robotics team during the 2024–25 season. It includes autonomous and tele-op code written in Java, built on the FTC SDK.
 
 > ⚠️ **Note:** Due to a Git misconfiguration during the season, many commits were incorrectly attributed to a teammate so I reuploaded it. This code reflects my original work and programming contributions.
+
 
 ## 🧠 Features
 - **Autonomous Pathing**: Odometry-based navigation with encoder feedback
@@ -20,16 +22,16 @@ This repository contains the complete control system I developed for our FTC rob
 
 ## 📁 Code Structure
 ├── Autonomous/
-│ ├── AutoByRRSpecimen.java
-│ ├── AutoByRRBucket.java
-│ └── [Other tests and versions included to show progress]
+│ AutoByRRSpecimen.java
+│ AutoByRRBucket.java
+│ [Other tests and versions included to show progress]
 ├── TeleOp/
-│ ├── RobotCentricSolo.java
-│ └── RobotCentricDuo.java
-├── Utils/
-│ ├── RobotHardware.Java
-│ ├── MeepMeepTesting
-│ └── Tuning
+│ RobotCentricSolo.java
+│ RobotCentricDuo.java
+├ Utils/
+│ RobotHardware.Java
+│ MeepMeepTesting
+│ Tuning
 
 
 ## 🧪 How to Use
