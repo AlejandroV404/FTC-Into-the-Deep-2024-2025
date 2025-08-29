@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.team12395.v1.auto;
+package org.firstinspires.ftc.team12397.v1.auto;
 
 
 import androidx.annotation.NonNull;
@@ -12,7 +12,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorEx;
 import com.qualcomm.robotcore.hardware.HardwareMap;
 import com.qualcomm.robotcore.hardware.Servo;
-import org.firstinspires.ftc.team12395.v1.MecanumDrive;
+import org.firstinspires.ftc.team12397.v1.MecanumDrive;
 
 import java.lang.Math;
 
