@@ -3,7 +3,7 @@ https://theorangealliance.org/teams/12397
 
 This repository contains the complete control system I developed for our FTC robotics team during the 2024–25 season. It includes autonomous and tele-op code written in Java, built on the FTC SDK.
 
-> ⚠️ **Note:** Due to a Git misconfiguration during the season, many commits were incorrectly attributed to a teammate so I reuploaded it. This code reflects my original work and programming contributions.
+> ⚠️ **Note:** This repository is a re-upload due to technical issues with the original repo during the season. All code was written by me (hardware, autonomous, tele-op).
 
 
 ## 🧠 Features
