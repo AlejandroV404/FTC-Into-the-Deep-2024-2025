@@ -1,10 +1,10 @@
-package org.firstinspires.ftc.team12395.v1.auto;
+package org.firstinspires.ftc.team12397.v1.auto;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
 import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.util.ElapsedTime;
-import org.firstinspires.ftc.team12395.v1.RobotHardware;
+import org.firstinspires.ftc.team12397.v1.RobotHardware;
 
 @Autonomous(name =  "Auto By Encoder Bucket", group = "Robot")
 @Disabled
